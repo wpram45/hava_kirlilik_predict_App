@@ -1,0 +1,17 @@
+En yakýn istasyonu bulmak için api çaðrýsý 
+
+
+https://api.meteostat.net/v1/stations/nearby?lat=38.614033&lon=27.429562&limit=5&key=DyAhundC
+
+
+
+geçmiþ hava durumu verileri api çaðrýsý
+
+https://api.meteostat.net/v1/history/daily?station=17219&start=2019-01-11&end=2020-05-10&key=DyAhundC
+
+
+
+Gaziemir:
+
+
+Station id:LTBK0
